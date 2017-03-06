@@ -1,0 +1,95 @@
+# sublime-text-3-usersettings
+my backup
+{
+	"added_words":
+	[
+		"Tripleo",
+		"tripleo",
+		"Workflow",
+		"https",
+		"http",
+		"workflows",
+		"tripleclient",
+		"triplecolient"
+	],
+	"always_show_minimap_viewport": true,
+	"auto_complete": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.python"
+		}
+	],
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night (SL).tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.pid",
+		"*.pyc"
+	],
+	"find_selected_text": true,
+	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"__pycache__",
+		"env",
+		"env3"
+	],
+	"font_face": "Liberation Mono",
+	"font_options":
+	[
+		"subpixel_antialias",
+		"no_bold"
+	],
+	"font_size": 10.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintageous"
+	],
+	"ignored_words":
+	[
+		"Deployer",
+		"creativecommons",
+		"legalcode",
+		"org",
+		"v1",
+		"v2",
+		"workflow"
+	],
+	"indent_guide_options":
+	[
+		"draw_active",
+		"draw_normal"
+	],
+	"indent_to_bracket": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":
+	[
+		72,
+		79
+	],
+	"scroll_past_end": false,
+	"shift_tab_unindent": true,
+	"show_full_path": true,
+	"show_minimap": false,
+	"soda_classic_tabs": true,
+	"soda_folder_icons": false,
+	"spell_check": true,
+	"tab_size": 4,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wrap_width": 80
+}
