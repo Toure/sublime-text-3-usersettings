@@ -1,5 +1,6 @@
 # sublime-text-3-usersettings
 my backup
+'''
 {
 	"added_words":
 	[
@@ -93,3 +94,4 @@ my backup
 	"trim_trailing_white_space_on_save": true,
 	"wrap_width": 80
 }
+'''
